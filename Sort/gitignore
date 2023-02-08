@@ -1,0 +1,47 @@
+# binaire
+*triAlgo
+
+# Compiled object files
+*.o
+*.out
+
+# Precompiled Headers
+*.gch
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+
+# Compiled Static libraries
+*.a
+
+# Executables
+*.exe
+
+# Debug files
+*.dSYM
+*.dSYM/
+
+# Object files
+*.slo
+*.lo
+
+# Build artifacts
+build/
+bin/
+lib/
+
+# IDE files
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.opendb
+*.unsuccessfulbuild
+
+# Temporary files
+*~
+#\#*\#
+*.swp
+*.tmp
