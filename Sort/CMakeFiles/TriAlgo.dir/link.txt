@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/TriAlgo.dir/src/fileInteraction.c.o CMakeFiles/TriAlgo.dir/src/main.c.o -o TriAlgo 
